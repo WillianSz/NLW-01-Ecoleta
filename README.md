@@ -12,7 +12,7 @@
                                           
 ## Sobre 
 
-Aplicação Web chamado Ecoleta, desenvolvido na semana internacional meio ambiente pela [Rocketseat](https://rocketseat.com.br).
+Aplicação Web chamado Ecoleta, desenvolvido na semana internacional do meio ambiente pela [Rocketseat](https://rocketseat.com.br).
 
 ## Amostra
 

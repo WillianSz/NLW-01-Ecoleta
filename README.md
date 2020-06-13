@@ -12,7 +12,7 @@
                                           
 ## Sobre 
 
-Aplicação Web, chamado Ecoleta desenvolvida na semana internacional meio ambiente pela [Rocketseat](https://rocketseat.com.br)
+Aplicação Web chamado Ecoleta, desenvolvido na semana internacional meio ambiente pela [Rocketseat](https://rocketseat.com.br).
 
 ## Amostra
 
@@ -20,15 +20,15 @@ Aplicação Web, chamado Ecoleta desenvolvida na semana internacional meio ambie
 
 ### Dias
 
-1 -Acelerando sua evolução - NLW#1 Booster (Completo)
+1 - Acelerando sua evolução - NLW#1 Booster (Completo)
 <br>
-2 -Olhando para as oportunidades - NLW#1 Booster (Completo)
+2 - Olhando para as oportunidades - NLW#1 Booster (Completo)
 <br>
-3 -A escolha da stack - NLW#1 Booster (Completo)
+3 - A escolha da stack - NLW#1 Booster (Completo)
 <br>
-4 -Até 2 anos em 2 meses - NLW#1 Booster (Incompleto)
+4 - Até 2 anos em 2 meses - NLW#1 Booster (Incompleto)
 <br>
-5 -A milha extra - NLW#1 Booster (Incompleto)
+5 - A milha extra - NLW#1 Booster (Incompleto)
 
 ### Ministrado por:
 
